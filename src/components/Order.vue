@@ -106,10 +106,13 @@
 <script>
 import axios from 'axios';
 
+// [jwc]+1 orig: stripeKey: 'pk_test_Tro4UIRJbdwS1mR7qO8EQ73F',
+
+
 export default {
     data(){
         return {
-            stripeKey: 'pk_test_Tro4UIRJbdwS1mR7qO8EQ73F',
+            stripeKey: 'pk_test_FOQCuDIEGLnvRRWEHAmdxUAa',
 
             // fields
             name: 'Connor Leech',
